@@ -1,0 +1,2 @@
+C:\Users\forag\source\repos\EDDPia\Debug\EDDPia.exe
+C:\Users\forag\source\repos\EDDPia\Debug\EDDPia.pdb
